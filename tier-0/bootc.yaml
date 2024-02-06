@@ -2,6 +2,7 @@
 packages:
  - systemd
  - bootc
+ - sos
  # Required by bootc install today, though we'll likely switch bootc to use a Rust crate instead of sgdisk
  - gdisk xfsprogs e2fsprogs dosfstools
 
