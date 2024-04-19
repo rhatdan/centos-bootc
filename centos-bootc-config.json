@@ -7,4 +7,7 @@
         "redhat.version-id": "9"
     },
     "StopSignal": "SIGRTMIN+3"
+    "Volume": {
+	"/var/lib/containers/storage"
+    }
 }
